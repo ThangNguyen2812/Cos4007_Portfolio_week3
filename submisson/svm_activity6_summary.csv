@@ -1,0 +1,6 @@
+SVM Model,Train-Test Split (%),10-fold Cross-validation (%)
+Train-Test split (70/30),86.98,-
+10-fold cross-validation,-,86.51
+1 and 2 with hyperparameter tuning,86.98,86.67
+1 and 2 with hyperparameter tuning and 10 best features,81.16,82.14
+1 and 2 with hyperparameter tuning and 10 principal components,86.43,87.14

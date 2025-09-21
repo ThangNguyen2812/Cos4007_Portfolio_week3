@@ -1,0 +1,4 @@
+Model,Train-Test Split (%),10-fold Cross-validation (%)
+SGD,84.49,82.43
+Random Forest,84.49,85.43
+MLP,85.87,84.51
